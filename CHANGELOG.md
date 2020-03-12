@@ -17,7 +17,7 @@
 
 ## 2.6.0 [☰](https://github.com/activeadmin/activeadmin/compare/v2.5.0..v2.6.0)
 
-### Enhacements
+### Enhancements
 
 * Display multiple flash messages in separate elements. [#5929] by [@mirelon]
 * Make delete confirmation messages in French & Spanish gender-neutral. [#5946] by [@cprodhomme]
